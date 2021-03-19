@@ -21,3 +21,5 @@ SQLAlchemyHomework-Surfs Up!
 
 
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS) 
+
+     <img width="478" alt="station-histogram" src="https://user-images.githubusercontent.com/74845016/111728803-a2c1f400-883b-11eb-95b8-09f1c0916cc6.png">
