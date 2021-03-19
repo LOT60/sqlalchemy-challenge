@@ -9,6 +9,9 @@ SQLAlchemyHomework-Surfs Up!
 
 * Using this date, retrieve the last 12 months of precipitation data by querying the 12 preceding months of data.
 
+     <img width="468" alt="precipitation" src="https://user-images.githubusercontent.com/74845016/111728681-61c9df80-883b-11eb-8529-fc378a9fa8a5.png">
+
+
 *  Summary statistics for the precipitation data
 
      ![Capture](https://user-images.githubusercontent.com/74845016/111728510-fe3fb200-883a-11eb-8c97-0dba7c92f030.PNG)
