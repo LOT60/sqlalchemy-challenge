@@ -11,7 +11,7 @@ SQLAlchemyHomework-Surfs Up!
 
 *  Summary statistics for the precipitation data
 
-     * ![Capture](https://user-images.githubusercontent.com/74845016/111728510-fe3fb200-883a-11eb-8c97-0dba7c92f030.PNG)
+     ![Capture](https://user-images.githubusercontent.com/74845016/111728510-fe3fb200-883a-11eb-8c97-0dba7c92f030.PNG)
 
 
 *Station Analysis*
